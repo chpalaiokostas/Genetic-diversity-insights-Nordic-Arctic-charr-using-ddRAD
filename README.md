@@ -1,1 +1,1 @@
-# Genetic-diversity-and-population-structure-of-Nordic-Arctic-charr-using-ddRAD
+# Genetic-diversity-insights-from-Nordic-Arctic-charr-using-ddRAD
