@@ -18,7 +18,7 @@ The obtained vcf file was filtered using SNPfiltR (https://devonderaad.github.io
 
 ## Detection of genetic clusters with machine learning
 
-K-Means, Gaussian mixture and Bayesian Gaussian mixture models were fitted using Python's `scikit-learn` aiming to identify genetic clusters. The code Python code is available in the Jupyter Notebook file `ML_genetic_clusters.ipynb`. 
+K-Means, Gaussian mixture and Bayesian Gaussian mixture models were fitted using Python's `scikit-learn` aiming to identify genetic clusters. The code Python code is available in the Jupyter Notebook file `ML_genetic_clusters/ML_genetic_clusters.ipynb`. 
 
 
 
