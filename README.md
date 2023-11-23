@@ -8,7 +8,7 @@ The following briefly describes the conducted data analysis:
 
 ## Variant calling
 
-Processing of the sequenced reads, QC filtering and variant calling was performed through a Snakemake pipeline. The file `stacks2_env.yaml`contains detailed information about each software that snakemake used. Using this yaml file one should be able to replicate our analyses. Keep in mind that it is expected that snakemake and conda are already installed. Also the raw sequnece reads are publicly avalaible through NCBI under project.
+Processing of the sequenced reads, QC filtering and variant calling was performed through a Snakemake pipeline. The file `stacks2_env.yaml`contains detailed information about each software that snakemake used. Using this yaml file one should be able to replicate our analyses. Keep in mind that it is expected that snakemake and conda are already installed. Also the raw sequnece reads are publicly avalaible through NCBI under project PRJNA1044256.
 
 
 ## Custom population genetic analyses
