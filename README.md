@@ -20,6 +20,11 @@ The obtained vcf file was filtered using SNPfiltR (https://devonderaad.github.io
 
 K-Means, Gaussian mixture and Bayesian Gaussian mixture models were fitted using Python's `scikit-learn` aiming to identify genetic clusters. The code Python code is available in the Jupyter Notebook file `ML_genetic_clusters/ML_genetic_clusters.ipynb`. 
 
+## Citation
+
+Palaiokostas C, Kurta K, Pappas F, Jeuthe H, Hagen Ø, Beirão J, Janhunen M, Kause A. 2024. Genetic diversity insights from population genomics and machine learning tools for Nordic Arctic charr (Salvelinus alpinus) populations. Aquaculture Reports. 39:102495. doi:10.1016/j.aqrep.2024.102495.
+
+
 
 
 
