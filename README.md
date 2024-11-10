@@ -22,7 +22,7 @@ K-Means, Gaussian mixture and Bayesian Gaussian mixture models were fitted using
 
 ## Citation
 
-Palaiokostas C, Kurta K, Pappas F, Jeuthe H, Hagen Ø, Beirão J, Janhunen M, Kause A. 2024. Genetic diversity insights from population genomics and machine learning tools for Nordic Arctic charr (Salvelinus alpinus) populations. Aquaculture Reports. 39:102495. doi:10.1016/j.aqrep.2024.102495.
+Palaiokostas C, Kurta K, Pappas F, Jeuthe H, Hagen Ø, Beirão J, Janhunen M, Kause A. 2024. Genetic diversity insights from population genomics and machine learning tools for Nordic Arctic charr (Salvelinus alpinus) populations. Aquaculture Reports. 39:102495. [doi:10.1016/j.aqrep.2024.102495.](https://doi.org/10.1016/j.aqrep.2024.102495)
 
 
 
